@@ -1,0 +1,22 @@
+.myname {
+    margin: 20px 400px;
+    color: black;
+    font-family: 'Copperplate';
+}
+
+.myname1 {
+    margin: 20px 535px;
+    color: black;
+    font-family: 'Copperplate';
+}
+
+div {
+    background: #196;
+    border-radius: 13px;
+    padding: 10px 30px 10px 20px;
+}
+.link {
+    margin: 20px 400px;
+    color: black;
+    font-family: 'Copperplate';
+}
